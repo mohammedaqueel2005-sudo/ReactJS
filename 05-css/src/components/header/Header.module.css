@@ -1,0 +1,17 @@
+.Header{
+    background-color: aqua;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn{
+    background-color: yellow;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+    width: fit-content;
+}
